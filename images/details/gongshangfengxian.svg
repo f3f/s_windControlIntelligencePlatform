@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>图标/工商风险</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#699AFF" offset="0%"></stop>
+            <stop stop-color="#3861FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FF3434" offset="0%"></stop>
+            <stop stop-color="#FF7979" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标/工商风险" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工商风险" fill-rule="nonzero">
+            <polygon id="Path" points="0 0 18 0 18 20 0 20"></polygon>
+            <g id="police-cap" transform="translate(0.000000, 3.000000)">
+                <path d="M16.776,6.09900105 L9.05658648,1.01559252 C9.05975601,1.01767829 8.95300585,1.01766081 8.95624307,1.01553048 L1.22077771,6.10439598 L2.83484171,7.8521868 L2.83484171,11.4185395 L2.25707529,11.5377993 L2.25707529,12.0869598 L2.26545116,12.0888429 L8.49878466,13.9930709 C8.78105742,14.0251454 9.2203522,14.0251534 9.502765,13.9930925 L15.7123993,12.0928435 L15.7123993,11.5476916 L15.1346329,11.4522838 L15.1346329,7.84934236 L16.776,6.09900105 Z M15.8288861,12.0656022 L15.8723089,12.0558279 C15.8566682,12.0581253 15.842198,12.0613967 15.8288881,12.0656017 Z" id="Path" stroke="url(#linearGradient-1)" stroke-width="2"></path>
+                <polygon id="Star" fill="url(#linearGradient-2)" points="9 10 6.64885899 11.236068 7.09788697 8.61803399 5.19577393 6.76393202 7.8244295 6.38196601 9 4 10.1755705 6.38196601 12.8042261 6.76393202 10.902113 8.61803399 11.351141 11.236068"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

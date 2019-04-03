@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>图标/企业关联风险</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FF3434" offset="0%"></stop>
+            <stop stop-color="#FF7979" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#699AFF" offset="0%"></stop>
+            <stop stop-color="#3861FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标/企业关联风险" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-23" fill-rule="nonzero">
+            <polygon id="Path" points="0 0 18 0 18 20 0 20"></polygon>
+            <g id="Group-22" transform="translate(0.000000, 1.000000)">
+                <path d="M13.5131138,12 L15,12 L17.25,12 L13.80989,17.25 L12.75,17.25 L14.3571429,13.5 L12.75,13.5 L10.5,13.5 L14.25,8.25 L15.4208984,8.25 L13.5131138,12 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M4.88172798,11 L9.5,11 C10.0522847,11 10.5,11.4477153 10.5,12 C10.5,12.5522847 10.0522847,13 9.5,13 L2.5,13 C1.94771525,13 1.5,12.5522847 1.5,12 C1.5,11.7102348 1.62324472,11.4492549 1.82017451,11.26662 C1.85868626,11.2061784 1.90433035,11.1489705 1.95710678,11.0961941 L5.84619408,7.20710678 C6.23671837,6.81658249 6.86988335,6.81658249 7.26040764,7.20710678 C7.65093193,7.59763107 7.65093193,8.23079605 7.26040764,8.62132034 L4.88172798,11 Z M4.17172798,4 L16.25,4 C16.8022847,4 17.25,4.44771525 17.25,5 C17.25,5.55228475 16.8022847,6 16.25,6 L1.75,6 C1.19771525,6 0.75,5.55228475 0.75,5 C0.75,4.68477592 0.895852729,4.40361757 1.12375423,4.22032891 C1.13137674,4.21218624 1.13916093,4.20413993 1.14710678,4.19619408 L5.03619408,0.307106781 C5.42671837,-0.0834175106 6.05988335,-0.0834175106 6.45040764,0.307106781 C6.84093193,0.697631073 6.84093193,1.33079605 6.45040764,1.72132034 L4.17172798,4 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

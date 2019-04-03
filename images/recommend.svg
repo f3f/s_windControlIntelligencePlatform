@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="20px" viewBox="0 0 40 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#D7000F" offset="0%"></stop>
+            <stop stop-color="#F4683C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="智惠平台-首页-购买套餐" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="标准版套餐" transform="translate(-308.000000, -232.000000)">
+            <g id="五大套餐" transform="translate(10.000000, 232.000000)">
+                <g id="Group-7" transform="translate(232.000000, 0.000000)">
+                    <g id="Group-3" transform="translate(66.000000, 0.000000)">
+                        <path d="M0,0 L30,0 C35.5228475,-1.01453063e-15 40,4.4771525 40,10 L40,20 L10,20 C4.4771525,20 6.76353751e-16,15.5228475 0,10 L0,0 Z" id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        <text id="推荐" font-family="PingFang-SC-Bold, PingFang SC" font-size="11" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="9" y="14">推荐</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

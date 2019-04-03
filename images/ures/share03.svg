@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 28</title>
+    <desc>Created with Sketch.</desc>
+    <g id="我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分享给朋友" transform="translate(-30.000000, -647.000000)">
+            <g id="Group-28" transform="translate(30.000000, 647.000000)">
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="27" cy="27" r="27"></circle>
+                <g id="wechat" transform="translate(12.000000, 14.000000)">
+                    <g id="Group" fill="#48C04C">
+                        <path d="M30,17.3571429 C30,13.0969286 25.801875,9.64285714 20.625,9.64285714 C15.448125,9.64285714 11.25,13.0969286 11.25,17.3571429 C11.25,21.6173571 15.448125,25.0714286 20.625,25.0714286 C21.47625,25.0714286 22.28625,24.948 23.071875,24.7725 L28.125,27 L26.3775,23.4070714 C28.5675,21.9953571 30,19.8237857 30,17.3571429 Z" id="Path"></path>
+                        <path d="M11.25,0 C5.03625,0 0,4.31807143 0,9.64285714 C0,12.7131429 1.68375,15.4362857 4.295625,17.199 L2.8125,20.25 L6.853125,18.4699286 C7.719375,18.7862143 8.619375,19.0465714 9.58125,19.1680714 C9.45,18.5798571 9.375,17.9762143 9.375,17.3571429 C9.375,12.0400714 14.420625,7.71428571 20.625,7.71428571 C21.193125,7.71428571 21.748125,7.7625 22.295625,7.83192857 C21.305625,3.37307143 16.74,0 11.25,0 Z" id="Path"></path>
+                    </g>
+                    <g id="Group" transform="translate(6.000000, 5.000000)" fill="#FAFAFA">
+                        <ellipse id="Oval" cx="1.425" cy="1.38461538" rx="1.425" ry="1.38461538"></ellipse>
+                        <ellipse id="Oval" cx="9.025" cy="1.38461538" rx="1.425" ry="1.38461538"></ellipse>
+                        <ellipse id="Oval" cx="11.875" cy="10.6153846" rx="1.425" ry="1.38461538"></ellipse>
+                        <ellipse id="Oval" cx="17.575" cy="10.6153846" rx="1.425" ry="1.38461538"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

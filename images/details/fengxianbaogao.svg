@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>图标/报告</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#699AFF" offset="0%"></stop>
+            <stop stop-color="#3861FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FF3434" offset="0%"></stop>
+            <stop stop-color="#FF7979" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="智惠平台-风险查询" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="企业详情" transform="translate(-26.000000, -152.000000)">
+            <g id="图标/报告" transform="translate(26.000000, 151.000000)">
+                <g id="Group-18">
+                    <g id="Group-21" fill-rule="nonzero">
+                        <polygon id="Path" points="0 0 18 0 18 20 0 20"></polygon>
+                        <g id="Group-10" transform="translate(0.000000, 1.000000)">
+                            <path d="M0.899999989,12.9 L0.899999988,13 C0.89999999,15.2643675 2.73563252,17.1 4.99999999,17.1 L11,17.1 C13.2643675,17.1 15.1,15.2643675 15.1,13 L15.1,4.5 C15.1,3.48377285 15.3001148,2.585602 15.7549084,1.7397835 C15.9343497,1.4706215 16.1211556,1.19069394 16.3153264,0.9 L8,0.9 C5.73563253,0.9 3.9,2.73563253 3.9,5 L3.9,12.9 L0.899999989,12.9 Z" id="Rectangle" stroke="url(#linearGradient-1)" stroke-width="1.8"></path>
+                            <path d="M8,10 L11.25,10 C11.8022847,10 12.25,10.4477153 12.25,11 C12.25,11.5522847 11.8022847,12 11.25,12 L8,12 C7.44771525,12 7,11.5522847 7,11 C7,10.4477153 7.44771525,10 8,10 Z M8,6 L12,6 C12.5522847,6 13,6.44771525 13,7 C13,7.55228475 12.5522847,8 12,8 L8,8 C7.44771525,8 7,7.55228475 7,7 C7,6.44771525 7.44771525,6 8,6 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="black" name="apple-mobile-web-app-status-bar-style">
+<meta content="telephone=no" name="format-detection">
+<meta content="email=no" name="format-detection">
+<meta http-equiv="Cache-Control" CONTENT="no-cache">
+<meta http-equiv="pragram" content="no-cache">
+<meta name="Keywords" content="法海风控，风险控制，风控，尽职调查，尽调，涉诉信息查询，诉讼信息，法院案件，欠税信息，裁判文书，中国各级法院，税务局，工商局"/>
+<meta name="Description" content="法海风控网让您洞察目标客户！可查到企业或个人在中国各级法院、工商、税务的全部负面信息。目前监控全国34个省市超过50万个节点，源于清华的技术更可提供大数据挖掘服务。"/>
+<link href="style/bace.css" rel="stylesheet" type="text/css">
+<link href="style/ures.css" rel="stylesheet" type="text/css">
+<title>法海风控智惠平台</title>
+<script src="js/jquery-1.8.3.min.js" type="text/javascript"></script>
+</head>
+<body class="myindex-body">
+<!-- 首页-开始 -->
+<div class="my-indexbox">
+  <div class="header-top-box"><span class="ures-title">我的账户</span> <a href="purchasePlan.html" class="btn-purchase">购买套餐<i class="i-right"></i></a> </div>
+  <div class="my-opacityno">
+    <div class="login"><span><img src="images/ures/logo.png"></span>
+      <dt>下午好</dt>
+      <dd>15300129792</dd>
+      <div class="clear"></div>
+    </div>
+    <div class="monmey">
+      <dl><a href="my-package.html">
+        <dt>￥3998.60</dt>
+        <dd>套餐余额</dd></a>
+      </dl>
+      <dl><a href="my-package2.html">
+        <dt><span>0.00</span></dt>
+        <dd>账户余额</dd></a>
+      </dl>
+      <div class="clear"></div>
+    </div>
+  </div>
+  <div class="my-list">
+    <ul>
+      <li><a href="my-order.html"><img src="images/ures/list01.svg"><span>我的订单</span></a></li>
+      <li><a href="my-contact.html"><img src="images/ures/list02.svg"><span>联系我们</span></a></li>
+      <li><a href="#" id="share"><img src="images/ures/list03.svg"><span>推荐给朋友</span></a></li>
+      <div class="clear"></div>
+</ul>
+  </div>
+</div>
+<!--尾部导航-->
+<div class="footer">
+  <dl >
+    <a href="index.html">
+    <dt><img src="images/icon/fengxianchaxun.svg"/></dt>
+    <dd>风险查询</dd>
+    </a>
+  </dl>
+  <dl>
+    <a  href="report-index.html">
+    <dt><img src="images/icon/fengxianbaogao.svg"/></dt>
+    <dd>风险报告</dd>
+    </a>
+  </dl>
+  <dl class="click">
+    <a href="my-index.html">
+    <dt><img src="images/icon/wode2.svg"/></dt>
+    <dd>我的</dd>
+    </a>
+  </dl>
+</div>
+
+<!--遮罩层-->
+<div class="guide-back none"></div>
+<div class="share-box">
+  <div class="share-boxdl">
+  <dl><a href="#"><dt><img src="images/ures/share01.svg"></dt><dd>微信好友</dd></a></dl>
+  <dl><a href="#"><dt><img src="images/ures/share02.svg"></dt><dd>朋友圈</dd></a></dl>
+  <dl><a href="#"><dt><img src="images/ures/share03.svg"></dt><dd>QQ好友</dd></a></dl>
+  <dl><a href="#"><dt><img src="images/ures/share04.svg"></dt><dd>新浪微博</dd></a></dl>
+      <div class="clear"></div>
+</div>
+       <div class="share-close" id="share-close">取消</div>
+</div>
+<script>
+    $(function(){
+        //click-bottom 购买完整报告+遮罩层
+        $("#share").click(function(){
+            $("body").addClass("body-hidden");
+            $(".guide-back").removeClass("none");
+            $(".share-box").css({"bottom":0});
+        })
+        $(".guide-back,#share-close").click(function(){
+            $("body").removeClass("body-hidden");
+            $(".guide-back").addClass("none");
+            $(".share-box").css({"bottom":"-12.5em"});
+        })
+    })
+</script>
+
+</body>
+</html>

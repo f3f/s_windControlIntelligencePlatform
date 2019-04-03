@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="20px" viewBox="0 0 50 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>风险等级/正向</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-24.0%" y="-60.0%" width="148.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.568627451   0 0 0 0 0.996078431  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="风险等级/正向" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" filter="url(#filter-1)">
+            <path d="M2,-7.08801209e-15 L47.4676192,-1.08801856e-14 C48.5721887,-1.50073109e-14 49.4676192,0.8954305 49.4676192,2 C49.4676192,2.36248789 49.3691036,2.71816071 49.1826051,3.02899151 L45.9260924,8.45651273 C45.3560641,9.4065599 45.3560641,10.5934401 45.9260924,11.5434873 L49.1826051,16.9710085 C49.7509014,17.918169 49.4437713,19.1466895 48.4966108,19.7149859 C48.1857799,19.9014843 47.8301071,20 47.4676192,20 L2,20 C0.8954305,20 -2.15942087e-16,19.1045695 -1.33226763e-15,18 L0,2 C-1.3527075e-16,0.8954305 0.8954305,-6.90252123e-15 2,-7.10542736e-15 Z" id="Rectangle" fill="#0091FE" fill-rule="nonzero"></path>
+            <path d="M8,9 L8,6 C8,5.44771525 8.44771525,5 9,5 C9.55228475,5 10,5.44771525 10,6 L10,9 L13,9 C13.5522847,9 14,9.44771525 14,10 C14,10.5522847 13.5522847,11 13,11 L10,11 L10,14 C10,14.5522847 9.55228475,15 9,15 C8.44771525,15 8,14.5522847 8,14 L8,11 L5,11 C4.44771525,11 4,10.5522847 4,10 C4,9.44771525 4.44771525,9 5,9 L8,9 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M22.272,5.828 L17.832,5.828 L17.832,4.712 L27.384,4.712 L27.384,5.828 L23.412,5.828 L23.412,9.008 L26.748,9.008 L26.748,10.1 L23.412,10.1 L23.412,13.664 L27.888,13.664 L27.888,14.78 L17.124,14.78 L17.124,13.664 L18.912,13.664 L18.912,8.06 L20.016,8.06 L20.016,13.664 L22.272,13.664 L22.272,5.828 Z M32.22,8.372 L36.816,8.372 L36.816,12.764 L32.22,12.764 L32.22,8.372 Z M35.712,11.696 L35.712,9.44 L33.324,9.44 L33.324,11.696 L35.712,11.696 Z M34.8,4.268 C34.6479992,4.85200292 34.4600011,5.36799776 34.236,5.816 L39.396,5.816 L39.396,13.808 C39.396,14.7120045 38.9880041,15.164 38.172,15.164 L36.396,15.164 L36.084,14.012 L37.788,14.06 C38.1000016,14.06 38.256,13.8920017 38.256,13.556 L38.256,6.908 L30.84,6.908 L30.84,15.212 L29.7,15.212 L29.7,5.816 L33.024,5.816 C33.2800013,5.27999732 33.4759993,4.70800304 33.612,4.1 L34.8,4.268 Z" id="正向" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

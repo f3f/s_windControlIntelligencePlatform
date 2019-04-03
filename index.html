@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+		<meta content="yes" name="apple-mobile-web-app-capable">
+		<meta content="black" name="apple-mobile-web-app-status-bar-style">
+		<meta content="telephone=no" name="format-detection">
+		<meta content="email=no" name="format-detection">
+		<meta http-equiv="Cache-Control" CONTENT="no-cache">
+		<meta http-equiv="pragram" content="no-cache">
+		<meta name="Keywords" content="法海风控，风险控制，风控，尽职调查，尽调，涉诉信息查询，诉讼信息，法院案件，欠税信息，裁判文书，中国各级法院，税务局，工商局"/>
+		<meta name="Description" content="法海风控网让您洞察目标客户！可查到企业或个人在中国各级法院、工商、税务的全部负面信息。目前监控全国34个省市超过50万个节点，源于清华的技术更可提供大数据挖掘服务。"/>
+        <link href="style/swiper.min.css" rel="stylesheet" type="text/css" />
+        <link href="style/bace.css" rel="stylesheet" type="text/css">
+		<link href="style/mystyle.css" rel="stylesheet" type="text/css">
+		<title>法海风控智惠平台</title>
+		<script src="js/jquery-1.8.3.min.js" type="text/javascript"></script>
+		<script src="js/main.js" type="text/javascript"></script>
+        <style>
+            html,body {
+                position: relative;
+                height: 100%;
+            }
+            .swiper-container {
+                width: 100%;
+                height: 100%;
+            }
+            .swiper-slide {
+                /* Center slide text vertically */
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: -webkit-flex;
+                display: flex;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                -webkit-align-items: center;
+                align-items: center;
+            }
+        </style>
+	</head>
+	<body>
+    <!-- 首页-开始 -->
+    <div class="bg-gray index-box">
+        <header id="header">
+            <div class="header-top-box">
+                <img src="images/logo.svg" width="160" height="36" class="logo-img"/>
+                <a href="purchasePlan.html" class="btn-purchase">购买套餐<i class="i-right"></i></a>
+            </div>
+            <h1 class="header-h1-title">用法海数据 做睿智决策</h1>
+            <a class="index-search-box" href="#" onclick="Entrance(1)"><img src="images/report/search.svg"/>请输入企业名称，如“小米科技</a>
+            <div class="index-number-new">4,614,230,819</div>
+           <!-- <div class="index-number"><span class="numberRun2"></span><i><b></b></i></div>
+            <script  type="text/javascript"  src="js/number.js"></script>&lt;!&ndash;数据总数js&ndash;&gt;-->
+            <div class="index-nmbertext">风险信息数</div>
+        </header>
+        <nav class="nav-box">
+            <a class="nav-content" href="#" onclick="Entrance(2)">
+                <img src="images/nav1.svg" width="50" height="50"/>
+                <span>全文</span>
+            </a>
+            <a class="nav-content" href="#" onclick="Entrance(3)">
+                <img src="images/nav2.svg" width="50" height="50"/>
+                <span>关联风险</span>
+            </a>
+            <a class="nav-content" href="#" onclick="Entrance(4)">
+                <img src="images/nav3.svg" width="50" height="50"/>
+                <span>个人风险</span>
+            </a>
+            <a class="nav-content" href="report-index.html">
+                <img src="images/nav4.svg" width="50" height="50"/>
+                <span>风险报告</span>
+            </a>
+        </nav>
+        <div  class="bannerimg">
+            <div class="swiper-container swiper-container-horizontal">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide swiper-slide-active"><img src="images/banner1.svg"/></div>
+                    <div class="swiper-slide swiper-slide-next"><img src="images/banner2.svg"/></div>
+                </div>
+                <!-- Add Pagination -->
+                <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+            </div>
+        </div>
+        <div class="news-box clearfix">
+            <label class="title">法海最新资讯</label>
+            <a class="news-content clearfix">
+                <div class="news-left">
+                    <p>法海风控年度回顾：荣获中国大数据应用最佳实践案例</p>
+                    <span>发布于：2019年1月2日</span>
+                </div>
+                <img src="images/news2.png" width="92" height="68"/>
+            </a>
+            <a class="news-content clearfix">
+                <div class="news-left">
+                    <p>法海风控年度回顾：荣获中国大数据应用最佳实践案例</p>
+                    <span>发布于：2019年1月2日</span>
+                </div>
+                <img src="images/news.png" width="92" height="68"/>
+            </a>
+        </div>
+        <!--尾部导航-->
+        <div class="footer">
+                <dl class="click"><a href="index.html"><dt><img src="images/icon/fengxianchaxun2.svg"/></dt><dd>风险查询</dd></a></dl>
+                <dl><a href="report-index.html"><dt><img src="images/icon/fengxianbaogao.svg"/></dt><dd>风险报告</dd></a></dl>
+                <dl><a href="my-index.html"><dt><img src="images/icon/wode.svg"/></dt><dd>我的</dd></a></dl>
+            </div>
+    </div>
+    <!-- 首页-结束 -->
+    <!--搜索内容-开始-->
+    <div class="search-list dn">
+        <!-- 搜索框 -->
+        <div class="search-include">
+            <div class="search-box">
+                <i class="btn-search"></i>
+                <input name="" type="text" placeholder="请输入企业名称，如“小米科技”" class="search-input"/>
+                <div class="i-delete dn"></div>
+                <a class="btn-close">取消</a>
+            </div>
+            <!-- 搜索结果提示 -->
+            <div class="search-empty-hide dn">找到<span>10</span>家与“<span>乐视</span>相关的企业！</div>
+        </div>
+        <!--没有搜索到数据时，请显示此行 去掉dn显示-->
+        <div class="empry-box dn">
+            <dt><img src="images/report/empty-box.svg" /></dt>
+            <dd>这里是空的呀</dd>
+        </div>
+        <!-- 搜索内容-企业 -->
+        <div class="hide-box search-content1 dn">
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="companyDetails.html">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+        </div>
+        <!-- 搜索内容-全文 -->
+        <div class="hide-box search-content2 dn">
+            <a class="search-enterprise-a" href="#">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <a class="search-enterprise-a" href="#">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+        </div>
+        <!-- 搜索内容-关联图谱 -->
+        <div class="hide-box search-content3 dn">
+            <a class="search-enterprise-a click-bottom">
+                <div class="search-enterprise-box">
+                    <img src="images/enterprise.svg" width="24" height="24"/>
+                    <p class="p-describe"><span>乐视</span>信息技术(北京)股份有限公司</p>
+                    <span class="c-green">在营开业</span>
+                </div>
+            </a>
+            <!-- 遮罩层 -->
+            <div class="mask-layer-box"></div>
+            <div class="mask-layer-content dn">
+                <div class="service-items-box">
+                    <div class="service-items-text">
+                        <h3>系统提示<i class="i-down"></i></h3>
+                        <label>关联风险为实时数据，按次收费，建议及时下载保存</label>
+                        <a href="associationMapping.html">查看样例</a>
+                    </div>
+                    <div class="btn-operation-box">
+                        <a class="btn-cancel">取消</a>
+                        <a href="associationMapping.html">继续</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 搜索内容-个人风险信息 -->
+        <div class="hide-box search-content4 dn" id="progressBox">
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-green" title="100"></span></div><p class="nbm-progress">100</p>%</li>
+            </ul>
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-yellow" title="95"></span></div><p class="nbm-progress">95%</p></li>
+            </ul>
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-yellow" title="90"></span></div><p class="nbm-progress">90%</p></li>
+            </ul>
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-red" title="80"></span></div><p class="nbm-progress">80%</p></li>
+            </ul>
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-red" title="70"></span></div><p class="nbm-progress">70%</p></li>
+            </ul>
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-red" title="65"></span></div><p class="nbm-progress">65%</p></li>
+            </ul>
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-red" title="30"></span></div><p class="nbm-progress">30%</p></li>
+            </ul>
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-red" title="80"></span></div><p class="nbm-progress">80%</p></li>
+            </ul>
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-red" title="70"></span></div><p class="nbm-progress">70%</p></li>
+            </ul>
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-red" title="65"></span></div><p class="nbm-progress">65%</p></li>
+            </ul>
+            <ul class="risk-information-box">
+                <li><label>日期</label><span class="span-content">2018-10-15</span></li>
+                <li><label>数据类型</label><span class="span-content">失信被执行人</span></li>
+                <li><label>摘要</label><span class="span-content">法院：牡丹江市阳明区人民法院 案号案号</span></li>
+                <li><label>匹配度</label><div class="progress-box"><span class="bg-color bg-red" title="30"></span></div><p class="nbm-progress">30%</p></li>
+            </ul>
+        </div>
+    </div>
+    <!--搜索内容-关闭-->
+    <script src="js/swiper.min.js"></script>
+    <script>
+        $(function(){
+            //swiper动画
+            var swiper = new Swiper('.swiper-container', {
+                pagination: '.swiper-pagination',
+                paginationClickable: true
+            });
+            progressAnimation();//个人风险信息-匹配度动画
+        });
+        //个人风险信息-匹配度动画
+        function progressAnimation(){
+            var nbmProgressBg = $("#progressBox span.bg-color");
+            for(var i = 0;i<nbmProgressBg.length;i++){
+                var nbm = nbmProgressBg[i].title;
+                var animationProgress=document.styleSheets[0];
+                $(nbmProgressBg[i]).css({"width":nbm+"%"});
+                animationProgress.insertRule("@keyframes myfirst {0% { width:0%; } 100% { width:nbm+'%'}}");//动画样式
+            }
+        }
+    </script>
+    </body>
+</html>

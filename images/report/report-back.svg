@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="200px" viewBox="0 0 375 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>top_bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="4.4408921e-14%" x2="-3.33066907e-14%" y2="6.10622664e-14%" id="linearGradient-1">
+            <stop stop-color="#365AE4" offset="0%"></stop>
+            <stop stop-color="#3861FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="风险报告" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="风险报告1" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="top_bg/通用">
+                <path d="M0,0 L375,0 L375,184.444444 C315.002563,194.814815 252.502563,200 187.5,200 C122.497437,200 59.9974365,194.814815 0,184.444444 L0,0 Z" id="Rectangle"></path>
+            </g>
+        </g>
+    </g>
+</svg>

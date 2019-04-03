@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>图标/海关信息</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#699AFF" offset="0%"></stop>
+            <stop stop-color="#3861FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FF3434" offset="0%"></stop>
+            <stop stop-color="#FF7979" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标/海关信息" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="海关信息" fill-rule="nonzero">
+            <polygon id="Path" points="0 0 18 0 18 20 0 20"></polygon>
+            <g id="Group-23">
+                <path d="M2,14.6573343 L2,15 C2,15.5522847 1.55228475,16 1,16 C0.44771525,16 6.76353751e-17,15.5522847 0,15 L0,12 C-6.76353751e-17,11.4477153 0.44771525,11 1,11 C1.55228475,11 2,11.4477153 2,12 L2.67363116,12 C3.7970951,14.3649473 6.20760404,16 9,16 C11.792396,16 14.2029049,14.3649473 15.3263688,12 L17.4878829,12 C16.2523737,15.4955771 12.9186565,18 9,18 C6.17273389,18 3.64995551,16.6963331 2,14.6573343 Z M9,8 L9,8 C9.55228475,8 10,8.44771525 10,9 L10,19 C10,19.5522847 9.55228475,20 9,20 L9,20 C8.44771525,20 8,19.5522847 8,19 L8,9 C8,8.44771525 8.44771525,8 9,8 Z M17,11 C17.5522847,11 18,11.4477153 18,12 L18,15 C18,15.5522847 17.5522847,16 17,16 C16.4477153,16 16,15.5522847 16,15 L16,13 L14,13 C13.4477153,13 13,12.5522847 13,12 C13,11.4477153 13.4477153,11 14,11 L17,11 Z M6,8 L12,8 C12.5522847,8 13,8.44771525 13,9 C13,9.55228475 12.5522847,10 12,10 L6,10 C5.44771525,10 5,9.55228475 5,9 C5,8.44771525 5.44771525,8 6,8 Z M1,11 L4,11 C4.55228475,11 5,11.4477153 5,12 C5,12.5522847 4.55228475,13 4,13 L1,13 C0.44771525,13 6.76353751e-17,12.5522847 0,12 C-6.76353751e-17,11.4477153 0.44771525,11 1,11 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <circle id="Oval" fill="url(#linearGradient-2)" cx="9" cy="3" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

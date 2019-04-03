@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>图标/环保信息</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FF3434" offset="0%"></stop>
+            <stop stop-color="#FF7979" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#699AFF" offset="0%"></stop>
+            <stop stop-color="#3861FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="9" cy="9" r="9"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18" height="18" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="图标/环保信息" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="环保信息" fill-rule="nonzero">
+            <polygon id="Path" points="0 0 18 0 18 20 0 20"></polygon>
+            <g id="Group-21" transform="translate(0.000000, 1.000000)">
+                <path d="M8.69969531,3.89291228 C8.34665625,4.36368421 5.24998828,8.55045614 5.24998828,10.4795439 C5.24998828,12.5431579 6.93235547,14.2222456 9,14.2222456 C11.0676445,14.2222456 12.7500117,12.5431579 12.7500117,10.4795439 C12.7500117,8.55045614 9.65334375,4.36368421 9.30030469,3.89291228 C9.15894141,3.70357895 8.84105859,3.70357895 8.69969531,3.89291228 Z M9,12.7251579 C7.75926562,12.7251579 6.75,11.7178596 6.75,10.4795439 C6.75,10.2726667 6.91773047,10.1052632 7.12501172,10.1052632 C7.33229297,10.1052632 7.50002344,10.2726667 7.50002344,10.4795439 C7.50002344,11.305193 8.17273828,11.9766316 9.00003516,11.9766316 C9.20731641,11.9766316 9.37504687,12.1440351 9.37504687,12.3509123 C9.37501172,12.5577544 9.20728125,12.7251579 9,12.7251579 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <use id="Oval" stroke="url(#linearGradient-2)" mask="url(#mask-4)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="9,7" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

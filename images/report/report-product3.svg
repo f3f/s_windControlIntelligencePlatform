@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.44309971%" y1="2.44309971%" x2="97.9668303%" y2="97.9668303%" id="linearGradient-1">
+            <stop stop-color="#88AAFA" offset="0%"></stop>
+            <stop stop-color="#4779F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.23311055%" y1="2.23311055%" x2="95.9027147%" y2="95.9027147%" id="linearGradient-2">
+            <stop stop-color="#F58D81" offset="0%"></stop>
+            <stop stop-color="#E7463A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chart">
+            <g id="Group">
+                <g id="Group-2">
+                    <rect id="Rectangle" fill="#F6F6F6" x="0" y="0" width="48" height="48"></rect>
+                    <path d="M41.8369352,16.1766601 L25.2554028,24.6324558 L38.4184676,37.8033792 C44.2259332,31.9801965 45.5697446,23.5086837 41.8369352,16.1766601 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                    <path d="M27.7229862,4.04306483 L24.8153242,22.4320629 L41.3968566,13.9762672 C38.5913556,8.48314342 33.8133595,5.00966601 27.7229862,4.04306483 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                    <path d="M22.6149312,24.6324558 L25.5225933,6.24345776 C19.43222,5.27685658 13.8133595,7.10789784 9.4518664,11.469391 C2.1827112,18.7385462 2.1827112,30.534224 9.4518664,37.8033792 C16.7210216,45.0725344 28.5009823,45.0725344 35.7701375,37.8033792 L22.6149312,24.6324558 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+.documents{
+	background:#fff;
+}
+.documents-list{
+	background:#fff;
+	width:100%;
+	padding-left:20px;
+	box-sizing:border-box;
+	padding-top:0.55em;
+}
+.documents-list ul{
+	list-style-type:none;
+	overflow:auto;
+	zoom:1;
+	width:100%;
+}
+.documents-list ul li{
+	width:100%;
+	float:left;
+	border-bottom:1px dashed #f3f3f3;
+	padding:0.6em 0 ;
+}
+.documents-list ul li.li{
+	width:50%;
+	float:left;
+}
+.documents-list ul li h5{
+	color:#868592;
+	font-size:0.9em;
+	line-height:2.2em;
+	font-weight:400;
+	width:100%;
+	float:left;
+}
+.documents-list ul li p{
+	color:#010028;
+	font-size:0.9em;
+	line-height:1.7em;
+	float:left;
+	width:100%;
+	padding-right:20px;
+	box-sizing:border-box;
+}
+.documents-list ul li.li p{
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+}
+.documents-list ul li p.strong{
+	font-weight:600;
+	color:#000;
+}
+.documents-list ul li p.bule{
+	color:#3861ff;
+}
+.documents-list ul li p.red{
+	color:#ea0000;
+}
+.documents-list ul li p.hight{
+	line-height:2.3em;
+}
+
+.documents-title{
+	width: 100%;
+	line-height: 1.5em;
+	text-align:center;
+	color:#010028;
+	text-align: center;
+	font-size: 1em;
+	font-weight: 600;
+	padding:1.7em 30px 1.2em 30px;
+	box-sizing:border-box;
+}
+.documents-subject {
+	width: 100%;
+	box-sizing:border-box;
+	padding:0 20px;
+	color: #333;
+	line-height:2.2em;
+	font-size:1em;
+}
+.documents-subject p {
+	text-indent: 30px;
+}
+.documents-subject b {
+	font-weight: 400;
+	color: #ea0000;
+}
+.documents-footer{
+	width: 100%;
+	box-sizing:border-box;
+	padding:0 20px 3em 20px;
+	color: #333;
+	line-height:2.4em;
+	font-size:0.9em;
+}
+.documents-footer  p {
+	text-indent: 30px;
+}

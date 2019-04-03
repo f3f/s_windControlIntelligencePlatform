@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="260px" viewBox="0 0 375 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="260"></rect>
+        <linearGradient x1="64.7604167%" y1="95.6802449%" x2="0%" y2="-1.11022302e-14%" id="linearGradient-3">
+            <stop stop-color="#365AE4" offset="0%"></stop>
+            <stop stop-color="#3861FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M259.075024,425.814448 C379.566127,425.814448 374.977008,341.574966 374.977008,259.89488 C374.977008,178.214793 338.659544,112 218.168441,112 C97.6773382,112 0,178.214793 0,259.89488 C0,341.574966 138.583921,425.814448 259.075024,425.814448 Z" id="path-4"></path>
+        <pattern id="pattern-5" width="16.3308824" height="16.3308824" x="-16.3308824" y="95.6691176" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-6" transform="scale(0.340226716,0.340226716)"></use>
+        </pattern>
+        <image id="image-6" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEGWlDQ1BrQ0dDb2xvclNwYWNlR2VuZXJpY1JHQgAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VQNcC+8AAAFFSURBVGgF7djbDYMwDAXQBjEMYqyqY1WMxTppLiJIQIA8ariWkp8IPuweO60am67r7MstY8wwjuPH7dMz3uUua63p+/7r9rePIRW/9QmQzCV9ub0YgSIgzhxvQkjFb1EZBAdEKolkfJTqtnb7bv/zOJm58moRE0AzYgFoRawAGhE7gDZEEKAJcQjQgjgFaEBcAtgRUQBmRDSAFZEEYEQkA9gQWQAmRDaABVEEYEAUAx5H4EaGOyw+SMl66mbXzNOD4k6gCPNUY/CFwF1YOn5zRxJJRINqaUbUuZA/79sd3wm3xIdbdS60rXzo2XVCbO60/HxKJgFKKv4CkEziuyKBWAE0InYAbYggQBPiEKAFcQrQgLgEsCOiAMyIaAArIgnAiEgGsCGyAEyIbAALogjAgCgGPI7AX9w6F3JtqHMhnMWLFSrSD9jOnakVHpZYAAAAAElFTkSuQmCC"></image>
+        <linearGradient x1="0%" y1="1.72254642e-14%" x2="100%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#D7000F" offset="0%"></stop>
+            <stop stop-color="#F4683C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval-4-+-Oval-4-Copy-+-Oval-4-Copy-2-Mask">
+            <g>
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill-opacity="0" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)">
+                        <g transform="translate(-70.000000, -170.000000)">
+                            <g id="Oval-4" fill="none">
+                                <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                                <use fill-opacity="0.109999999" fill="url(#pattern-5)" style="mix-blend-mode: screen;" xlink:href="#path-4"></use>
+                            </g>
+                            <path d="M411.36841,389.508271 C506.695815,438.381928 579.01078,287.060717 579.01078,204.166758 C579.01078,121.272798 537.325454,50.5710376 448.959894,50.5710376 C360.594334,50.5710376 295.201162,83.153462 288.959894,200.663829 C282.718626,318.174195 316.041006,340.634613 411.36841,389.508271 Z" id="Oval-4-Copy" fill="#3E66FF" transform="translate(433.621450, 224.794382) scale(-1, 1) rotate(-328.000000) translate(-433.621450, -224.794382) "></path>
+                            <path d="M416.045189,430.986803 C472.872292,430.986803 491.058661,322.64832 493.813121,275.215835 C496.567582,227.78335 486.909887,189.255947 430.082784,189.255947 C373.255681,189.255947 375.09712,220.856105 327.188211,274.946688 C279.279302,329.037272 359.218085,430.986803 416.045189,430.986803 Z" id="Oval-4-Copy-2" fill="url(#linearGradient-7)" transform="translate(403.374250, 310.121375) scale(-1, 1) rotate(-35.000000) translate(-403.374250, -310.121375) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="90px" viewBox="0 0 120 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>没有数据/空盒子</title>
+    <desc>Created with Sketch.</desc>
+    <g id="没有数据/空盒子" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="空盒子" fill-rule="nonzero">
+            <g>
+                <ellipse id="Oval" fill="#F4F4F4" cx="60" cy="69" rx="60" ry="20"></ellipse>
+                <g id="Group" transform="translate(20.000000, 26.000000)">
+                    <rect id="Rectangle" fill="#D8D8D8" x="15" y="1" width="1" height="27"></rect>
+                    <rect id="Rectangle" fill="#D8D8D8" x="15" y="27" width="49" height="1"></rect>
+                    <polygon id="Rectangle" fill="#D8D8D8" points="15 28 16 28 3 48 2 48"></polygon>
+                    <polygon id="Rectangle" fill="#D8D8D8" points="64 28 65 28 78 48 77 48"></polygon>
+                    <rect id="Rectangle" fill="#D8D8D8" x="64" y="1" width="1" height="27"></rect>
+                    <path d="M0.5,16.5 L0.5,44 C0.5,47.0375661 2.96243388,49.5 6,49.5 L74,49.5 C77.0375661,49.5 79.5,47.0375661 79.5,44 L79.5,16.5 L0.5,16.5 Z" id="Rectangle" stroke="#999999" fill-opacity="0.8" fill="#FFFFFF"></path>
+                    <path d="M0.5,16.1775203 L0.5,16.5 L79.5,16.5 L79.5,16.1775203 L68.412804,2.53174056 C67.3684119,1.24633499 65.8003841,0.5 64.144177,0.5 L15.855823,0.5 C14.1996159,0.5 12.6315881,1.24633499 11.587196,2.53174056 L0.5,16.1775203 Z" id="Rectangle" stroke="#999999" fill-opacity="0" fill="#FFFFFF"></path>
+                </g>
+                <g id="Group-2" transform="translate(43.000000, 0.000000)" fill="#BBDEFB">
+                    <path d="M11.0172985,19.6236364 C13.1301214,19.2403919 13.5526081,13.6700896 13.5526081,10.6325235 C13.5526081,7.59495738 10.915273,1.97311176 8.88057176,1.98189542 C6.84587047,1.99067908 4.55260815,7.59495738 4.55260815,10.6325235 C4.55260815,13.6700896 8.90447567,20.0068809 11.0172985,19.6236364 Z" id="Oval" transform="translate(9.052608, 10.811077) rotate(-33.000000) translate(-9.052608, -10.811077) "></path>
+                    <path d="M27.8818583,41.4940153 C29.525165,41.1975838 29.8537658,36.8890737 29.8537658,34.539581 C29.8537658,32.1900883 27.8025051,27.8417105 26.2199597,27.8485044 C24.6374142,27.8552984 22.8537658,32.1900883 22.8537658,34.539581 C22.8537658,36.8890737 26.2385516,41.7904468 27.8818583,41.4940153 Z" id="Oval" transform="translate(26.353766, 34.677688) rotate(-112.000000) translate(-26.353766, -34.677688) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

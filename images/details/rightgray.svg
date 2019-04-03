@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="13px" viewBox="0 0 7 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的账户" transform="translate(-332.000000, -324.000000)" fill="#868592" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(331.000000, 324.000000)">
+                <g id="Group-6">
+                    <path d="M0.7,8.57695526 L8.3,8.57695526 C8.68659932,8.57695526 9,8.89035594 9,9.27695526 L9,9.27695526 C9,9.66355459 8.68659932,9.97695526 8.3,9.97695526 L0.7,9.97695526 C0.313400675,9.97695526 4.73447626e-17,9.66355459 0,9.27695526 L0,9.27695526 C-4.73447626e-17,8.89035594 0.313400675,8.57695526 0.7,8.57695526 Z" id="Rectangle" transform="translate(4.500000, 9.276955) rotate(-45.000000) translate(-4.500000, -9.276955) "></path>
+                    <path d="M0.7,3.17695526 L8.3,3.17695526 C8.68659932,3.17695526 9,3.49035594 9,3.87695526 L9,3.87695526 C9,4.26355459 8.68659932,4.57695526 8.3,4.57695526 L0.7,4.57695526 C0.313400675,4.57695526 4.73447626e-17,4.26355459 0,3.87695526 L0,3.87695526 C-4.73447626e-17,3.49035594 0.313400675,3.17695526 0.7,3.17695526 Z" id="Rectangle" transform="translate(4.500000, 3.876955) rotate(45.000000) translate(-4.500000, -3.876955) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

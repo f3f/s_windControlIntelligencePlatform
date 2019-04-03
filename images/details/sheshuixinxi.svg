@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>图标/涉税信息</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#699AFF" offset="0%"></stop>
+            <stop stop-color="#3861FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FF3434" offset="0%"></stop>
+            <stop stop-color="#FF7979" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标/涉税信息" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4">
+            <polygon id="Path" fill-rule="nonzero" points="0 0 18 0 18 20 0 20"></polygon>
+            <g id="Group-3" transform="translate(0.000000, 2.000000)">
+                <polygon id="¥" fill="url(#linearGradient-1)" points="0.22 0.72 2.86 0.72 6 6.86 9.14 0.72 11.78 0.72 7.88 7.74 10.54 7.74 10.54 8.98 7.18 8.98 7.16 9 7.16 10.72 8.54 10.72 8.54 11.96 7.16 11.96 7.16 15 4.84 15 4.84 11.96 1.48 11.96 1.48 10.72 4.84 10.72 4.84 9 4.82 8.98 1.48 8.98 1.48 7.74 4.12 7.74"></polygon>
+                <polyline id="Path-6" stroke="url(#linearGradient-2)" stroke-width="2" stroke-linecap="round" fill-rule="nonzero" points="10.0542251 14 11.7020618 11 14.5528192 11 16.7165527 6"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

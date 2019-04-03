@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.44309971%" y1="2.44309971%" x2="97.9668303%" y2="97.9668303%" id="linearGradient-1">
+            <stop stop-color="#88AAFA" offset="0%"></stop>
+            <stop stop-color="#4779F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.23311055%" y1="2.23311055%" x2="95.9027147%" y2="95.9027147%" id="linearGradient-2">
+            <stop stop-color="#F58D81" offset="0%"></stop>
+            <stop stop-color="#E7463A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="深度洞察48x48">
+            <g id="Group-2">
+                <rect id="Rectangle" fill="#F6F6F6" x="0" y="0" width="48" height="48"></rect>
+                <path d="M30.4,39.6 C30.4,40.7251324 28.3353782,41.6694329 25.5493529,41.9291947 C25.065093,41.9763982 24.5499441,42 24.0039063,42 C24.002604,42 24.0013019,41.9999999 24,41.9999996 C23.9667616,42 23.9335824,41.999905 23.9004642,41.9997156 C23.4628937,41.9973011 23.0453963,41.9795111 22.6479716,41.9463457 C19.7626652,41.7136555 17.6,40.7515373 17.6,39.6 L17.6,32.4 L8.32319002,21.3837882 C12.1361853,23.2321573 17.7457348,24.4 24,24.4 C29.7765975,24.4 35.0031987,23.4037324 38.7722356,21.7951682 L30.4,32.4 L30.4,39.6 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M24,22.8 C12.954305,22.8 4,19.0391919 4,14.4 C4,9.7608081 12.954305,6 24,6 C35.045695,6 44,9.7608081 44,14.4 C44,19.0391919 35.045695,22.8 24,22.8 Z M24,19.7454545 C32.9215229,19.7454545 40.1538462,17.352213 40.1538462,14.4 C40.1538462,11.447787 32.9215229,9.05454545 24,9.05454545 C15.0784771,9.05454545 7.84615385,11.447787 7.84615385,14.4 C7.84615385,17.352213 15.0784771,19.7454545 24,19.7454545 Z" id="Combined-Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                <ellipse id="Oval" fill="url(#linearGradient-1)" cx="24" cy="14.8" rx="8" ry="2.4"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

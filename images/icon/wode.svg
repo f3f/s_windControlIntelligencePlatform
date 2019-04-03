@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>我的1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的1" fill-rule="nonzero">
+            <path d="M11,12 C13.2542725,12 16.5,9.3137085 16.5,6 C16.5,2.6862915 14.9496658,2.84217094e-14 11,2.84217094e-14 C7.05033415,2.89494172e-14 5.50085449,2.6862915 5.50085449,6 C5.50085449,9.3137085 8.74572754,12 11,12 Z M16.610825,11.1862358 C19.7003377,11.9138343 22,14.6883597 22,18 C22,20.209139 20.209139,22 18,22 L4,22 C1.790861,22 2.705415e-16,20.209139 0,18 C-4.05558973e-16,14.6883597 2.29966233,11.9138343 5.38917496,11.1862358 C6.66561486,12.8942875 8.70368094,14 11,14 C13.2963191,14 15.3343851,12.8942875 16.610825,11.1862358 Z" id="Combined-Shape" fill="#9C9BA8"></path>
+            <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="22" height="22"></rect>
+        </g>
+    </g>
+</svg>
